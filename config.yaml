@@ -1,0 +1,7 @@
+source_dir: '/Users/ruky/Desktop/testfolder'
+log_level: 'info'
+file_extensions:
+  '.txt': 'documents/text_files'
+  '.docx': 'documents'
+  '.jpg': 'images'
+  '.pdf': 'documents'
